@@ -1,0 +1,85 @@
+
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.2/font/bootstrap-icons.css");
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    min-height: 100vh;
+    background-color: white;
+}
+.img-fluid{
+    height: 80px;
+}
+
+.nav-link:active,
+.nav-link:focus,
+.nav-link:hover{
+    background-color: #ffffff26;
+}
+.nav-item{
+    text-transform: uppercase;
+}
+.logo{
+    height: 123px;
+}
+#about{
+    position: relative;
+    top: 140px;
+}
+.logoimg{
+    position: relative;
+    left: 850px;
+    bottom: 267px;
+}
+.name{
+    font-size: 3rem;
+}
+p.lead{
+    font-size: 1.15rem;
+    font-weight: 400
+}
+.resume-section{
+    min-height: 100vh;
+}
+.mb-5{
+    margin-bottom: 1.25rem !important;
+}
+.edu{
+    font-size: 3rem;
+    font-weight: 500;
+
+}
+h3.mb-0{
+    font-size: 2rem;
+    font-weight: 500;
+}
+.subheading.mb-3{
+    font-size: 19px;
+    text-transform: uppercase;
+}
+.skill.col-4{
+    width: 20px;
+}
+.social-icons{
+    font-size: 44px;
+
+}
+.list-inline-item{
+    font-size: 44px;
+}
+#awards{
+    right: 288px;
+    position: relative;
+}
+.last{
+    margin-top: 19px;
+}
+h3.mb-4{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+
