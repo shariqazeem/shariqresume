@@ -81,5 +81,14 @@ h3.mb-4{
     font-size: 28px;
     font-weight: bold;
 }
+@media screen and (max-width: 500px)
+{
+    .logoimg{
+        display: none;
+    }
+    svg{
+        height: 22px;
+    }
+}
 
 
