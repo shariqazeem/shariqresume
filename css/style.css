@@ -89,6 +89,9 @@ h3.mb-4{
     svg{
         height: 22px;
     }
+    .centered{
+        text-align: center;
+    }
 }
 
 
