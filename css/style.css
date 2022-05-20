@@ -83,7 +83,7 @@ h3.mb-4{
     font-size: 28px;
     font-weight: bold;
 }
-@media screen and (max-width: 500px)
+@media screen and (max-width: 820px)
 {
     .logoimg{
         display: none;
