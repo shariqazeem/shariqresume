@@ -8,12 +8,14 @@
 }
 body{
     min-height: 100vh;
-    background-color: white;
+    background: #f8fafd;
 }
 .img-fluid{
     height: 80px;
 }
-
+.navbar{
+    background-color: #f8fafd !important;
+}
 .nav-link:active,
 .nav-link:focus,
 .nav-link:hover{
